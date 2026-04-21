@@ -1,2 +1,3 @@
 # MIPS-Lite
-venkat sai sumanth koyada
+Venkat Sai Sumanth Koyada
+Venkata Sriram Kamarajugadda
